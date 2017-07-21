@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 #PiStream Installer
 
